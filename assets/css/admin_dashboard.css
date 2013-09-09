@@ -1,0 +1,23 @@
+
+
+
+#header{
+	height: 14px;
+	background: #b0b0b0;
+}
+
+#header_red_line{
+	height: 80px;
+	background: #df013a;
+}
+
+#footer_grey_line{
+	height: 30px;
+	background:gray;
+}
+
+#footer_lower_grey_line{
+	height:14px;
+	background: #b0b0b0;
+	margin-bottom:3px;
+}

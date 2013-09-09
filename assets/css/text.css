@@ -1,0 +1,179 @@
+/*
+  960 Grid System ~ Text CSS.
+  Learn more ~ http://960.gs/
+
+  Licensed under GPL and MIT.
+*/
+
+
+/* `Custom  */
+ .buttonadmin{
+   border-top: 1px solid #d91838;
+   background: #000000;
+   background: -webkit-gradient(linear, left top, left bottom, from(#b5020b), to(#000000));
+   background: -webkit-linear-gradient(top, #b5020b, #000000);
+   background: -moz-linear-gradient(top, #b5020b, #000000);
+   background: -ms-linear-gradient(top, #b5020b, #000000);
+   background: -o-linear-gradient(top, #b5020b, #000000);
+   padding: 2px 10px;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #eddfed;
+   font-size: 14px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.buttonadmin:hover {
+   border-top-color: #2b2a2b;
+   background: #2b2a2b;
+   color: #f0f0f0;
+   }
+.buttonadmin:active {
+   border-top-color: #b30000;
+   background: #b30000;
+   }
+   
+ .buttonlogin{
+   border-top: 1px solid #d91838;
+   background: #000000;
+   background: -webkit-gradient(linear, left top, left bottom, from(#b5020b), to(#000000));
+   background: -webkit-linear-gradient(top, #b5020b, #000000);
+   background: -moz-linear-gradient(top, #b5020b, #000000);
+   background: -ms-linear-gradient(top, #b5020b, #000000);
+   background: -o-linear-gradient(top, #b5020b, #000000);
+   padding: 5px 10px;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #eddfed;
+   font-size: 14px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.buttonlogin:hover {
+   border-top-color: #2b2a2b;
+   background: #2b2a2b;
+   color: #f0f0f0;
+   }
+.buttonlogin:active {
+   border-top-color: #b30000;
+   background: #b30000;
+   }
+
+#gradient{
+
+	 background-color:background: -moz-linear-gradient(top, rgba(232,83,83,0.97) 0%, rgba(233,59,59,0.97) 2%, rgba(234,0,0,0.97) 7%, rgba(145,0,0,0.99) 78%, rgba(145,0,0,1) 90%, rgba(145,0,0,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(232,83,83,0.97)), color-stop(2%,rgba(233,59,59,0.97)), color-stop(7%,rgba(234,0,0,0.97)), color-stop(78%,rgba(145,0,0,0.99)), color-stop(90%,rgba(145,0,0,1)), color-stop(100%,rgba(145,0,0,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(232,83,83,0.97) 0%,rgba(233,59,59,0.97) 2%,rgba(234,0,0,0.97) 7%,rgba(145,0,0,0.99) 78%,rgba(145,0,0,1) 90%,rgba(145,0,0,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(232,83,83,0.97) 0%,rgba(233,59,59,0.97) 2%,rgba(234,0,0,0.97) 7%,rgba(145,0,0,0.99) 78%,rgba(145,0,0,1) 90%,rgba(145,0,0,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(232,83,83,0.97) 0%,rgba(233,59,59,0.97) 2%,rgba(234,0,0,0.97) 7%,rgba(145,0,0,0.99) 78%,rgba(145,0,0,1) 90%,rgba(145,0,0,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(232,83,83,0.97) 0%,rgba(233,59,59,0.97) 2%,rgba(234,0,0,0.97) 7%,rgba(145,0,0,0.99) 78%,rgba(145,0,0,1) 90%,rgba(145,0,0,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7e85353', endColorstr='#910000',GradientType=0 ); /* IE6-9 */
+		; height: 50px; width: 940px;
+}
+
+#gradientfooter{
+
+	margin-top: 1px; background-color:background: -moz-linear-gradient(top, rgba(232,83,83,0.97) 0%, rgba(233,59,59,0.97) 2%, rgba(234,0,0,0.97) 7%, rgba(145,0,0,0.99) 78%, rgba(145,0,0,1) 90%, rgba(145,0,0,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(232,83,83,0.97)), color-stop(2%,rgba(233,59,59,0.97)), color-stop(7%,rgba(234,0,0,0.97)), color-stop(78%,rgba(145,0,0,0.99)), color-stop(90%,rgba(145,0,0,1)), color-stop(100%,rgba(145,0,0,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(232,83,83,0.97) 0%,rgba(233,59,59,0.97) 2%,rgba(234,0,0,0.97) 7%,rgba(145,0,0,0.99) 78%,rgba(145,0,0,1) 90%,rgba(145,0,0,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(232,83,83,0.97) 0%,rgba(233,59,59,0.97) 2%,rgba(234,0,0,0.97) 7%,rgba(145,0,0,0.99) 78%,rgba(145,0,0,1) 90%,rgba(145,0,0,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(232,83,83,0.97) 0%,rgba(233,59,59,0.97) 2%,rgba(234,0,0,0.97) 7%,rgba(145,0,0,0.99) 78%,rgba(145,0,0,1) 90%,rgba(145,0,0,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(232,83,83,0.97) 0%,rgba(233,59,59,0.97) 2%,rgba(234,0,0,0.97) 7%,rgba(145,0,0,0.99) 78%,rgba(145,0,0,1) 90%,rgba(145,0,0,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7e85353', endColorstr='#910000',GradientType=0 ); /* IE6-9 */
+		; height: 30px; width: 940px;
+}
+
+
+/*			*/
+
+/* `Basic HTML
+----------------------------------------------------------------------------------------------------*/
+
+body {
+  font: 13px/1.5 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+}
+
+pre,
+code {
+  font-family: 'DejaVu Sans Mono', Menlo, Consolas, monospace;
+}
+
+hr {
+  border: 0 #ccc solid;
+  border-top-width: 1px;
+  clear: both;
+  height: 0;
+}
+
+/* `Headings
+----------------------------------------------------------------------------------------------------*/
+
+h1 {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 23px;
+}
+
+h3 {
+  font-size: 21px;
+}
+
+h4 {
+  font-size: 19px;
+}
+
+h5 {
+  font-size: 17px;
+}
+
+h6 {
+  font-size: 15px;
+}
+
+/* `Spacing
+----------------------------------------------------------------------------------------------------*/
+
+ol {
+  list-style: decimal;
+}
+
+ul {
+  list-style: disc;
+}
+
+li {
+  margin-left: 30px;
+}
+
+p,
+dl,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+ul,
+pre,
+table,
+address,
+fieldset,
+figure {
+  margin-bottom: 20px;
+}
